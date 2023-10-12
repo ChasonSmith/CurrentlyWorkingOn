@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 4156dbf399fa62e41aa2c8290b4fa0db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - squirelImage: {fileID: 21300000, guid: 897a83b1c9766484da7fd3aad938c5ab, type: 3}
+  - stegImage: {fileID: 21300000, guid: be29ce98afe63eb4dbc601129edf1acb, type: 3}
+  - stingrayImage: {fileID: 21300000, guid: 027bb6c819fe2074bba1b71be9afb856, type: 3}
+  - stonefishImage: {fileID: 21300000, guid: 33f2ec6053055374aafc509790a65abe, type: 3}
+  - tigerImage: {fileID: 21300000, guid: 24e860285da19934085e0da015e2960c, type: 3}
+  - trexImage: {fileID: 21300000, guid: 7cdd4faa3f5fd6b448104f261bb00a20, type: 3}
+  - triImage: {fileID: 21300000, guid: a2a7f3a0a9801834fa85af5f7ec5d674, type: 3}
+  - turtleImage: {fileID: 21300000, guid: 0949c0cd0e5a0b542aec090ea85f6dce, type: 3}
+  - vultureImage: {fileID: 21300000, guid: 1b91d02669bb39a4796e7995dca4843b, type: 3}
+  - walrusImage: {fileID: 21300000, guid: 3c39cd0da4c50c74d936569c91241a69, type: 3}
+  - wevilImage: {fileID: 21300000, guid: 11919eed7738813428a93a2e21554704, type: 3}
+  - wolfImage: {fileID: 21300000, guid: ab5a262ed01bb83448d0d5f32b207396, type: 3}
+  - yakImage: {fileID: 21300000, guid: c7c885e3120a2ff4aaf8c35fe8a6fd5f, type: 3}
+  - yetiImage: {fileID: 21300000, guid: 4a380b249fc59aa469122ce3b651520b, type: 3}
+  - zebraImage: {fileID: 21300000, guid: e01a4f84281ac0f4990ff0823a499a01, type: 3}
+  - nileCrocImage: {fileID: 21300000, guid: 12c97b6ceaa3b5b4fbf24637dd235362, type: 3}
+  - octopusImage: {fileID: 21300000, guid: 36071faf34f15e04382beef2e925c6d7, type: 3}
+  - orcaImage: {fileID: 21300000, guid: 222c25ac422a5174a9eb9adc655a27b2, type: 3}
+  - ostrichImage: {fileID: 21300000, guid: 464986a5c4a9de44b93485a60581228e, type: 3}
+  - owlImage: {fileID: 21300000, guid: 248e2103450167146836484c63c55b76, type: 3}
+  - pandaImage: {fileID: 21300000, guid: 407b99dcf64e7924cba02d3ee69d1e27, type: 3}
+  - parrotImage: {fileID: 21300000, guid: ffdce9bbde08e034bb2869df870602d9, type: 3}
+  - penguinImage: {fileID: 21300000, guid: 95865e52ed1715d42a63873ea4b54279, type: 3}
+  - pigImage: {fileID: 21300000, guid: 871bfa48a35f1b84a9cec72f1efd2fa3, type: 3}
+  - pikaImage: {fileID: 21300000, guid: 04f0080892630ac4985216edee2cdfef, type: 3}
+  - polarBearImage: {fileID: 21300000, guid: 3df11f9bb6d614e46a797a9f884c9603, type: 3}
+  - puffinImage: {fileID: 21300000, guid: fd38741fc68a13e45b53df0c0fb17b59, type: 3}
+  - rabbitImage: {fileID: 21300000, guid: 6366536495cab6041b77159040402d9f, type: 3}
+  - racoonImage: {fileID: 21300000, guid: b958ee8985ba6e749adb06547fe6b6a5, type: 3}
+  - raptorImage: {fileID: 21300000, guid: 106e9900e37e83346b5bf354f1bc6744, type: 3}
+  - ratImage: {fileID: 21300000, guid: bbdc947fd87138743ac88a6c5af9335b, type: 3}
+  - rattleSnakeImage: {fileID: 21300000, guid: 858eb03a9ccb57d4f8b1ca70b8396f20, type: 3}
+  - rhinoImage: {fileID: 21300000, guid: 450b67f6afc085f4784cfa085f0b9bd3, type: 3}
+  - robinImage: {fileID: 21300000, guid: 95663ecb3a250884cb9bde96ca45e387, type: 3}
+  - saberTigerImage: {fileID: 21300000, guid: fb493ec319b2fe84ba9303ae75ada9ec, type: 3}
+  - salamanderImage: {fileID: 21300000, guid: 25b2040e3b2191b4a89f2d4ab04b7a94, type: 3}
+  - saltCrocImage: {fileID: 21300000, guid: dcfd7a72f9cce204489c283e9ffa7992, type: 3}
+  - scorpionImage: {fileID: 21300000, guid: a1a21cc541261344e8e5beeb57b93c9e, type: 3}
+  - seahorseImage: {fileID: 21300000, guid: 594c7e0bee591c040be3f29150970ab3, type: 3}
+  - sealImage: {fileID: 21300000, guid: 6e228563d2c8c06469b803194247face, type: 3}
+  - sheepImage: {fileID: 21300000, guid: e23bdc9cd2085c3439b7b80be0f37d67, type: 3}
+  - slothImage: {fileID: 21300000, guid: 8435d6e0eab4c2c4f8accd873dd874f8, type: 3}
+  - snowLepImage: {fileID: 21300000, guid: 326427b970763be48b908b97bc4e09f0, type: 3}
+  - spermWhaleImage: {fileID: 21300000, guid: 8084c5963f7942147ac2de095237f510, type: 3}
+  - spiderImage: {fileID: 21300000, guid: 3f0d2b23f2518fc4e9c171f48390f9dc, type: 3}
+  - GWSharkImage: {fileID: 21300000, guid: 157f1162b1e7125439fb1a3f19402394, type: 3}
+  - hawkImage: {fileID: 21300000, guid: 581d106cd8e218840aeec59bb0efd525, type: 3}
+  - HHSharkImage: {fileID: 21300000, guid: 7fb76b426f40049418eb073d70160fad, type: 3}
+  - hippoImage: {fileID: 21300000, guid: b5f74aa8888c6d34caf2ea46e30452b4, type: 3}
+  - iguanadonImage: {fileID: 21300000, guid: 58386509308848047a86b9568d1adc83, type: 3}
+  - jagImage: {fileID: 21300000, guid: 7d3125e81998d03448a9ee9bfc9c2c33, type: 3}
+  - jellyfishImage: {fileID: 21300000, guid: 1d6aaa1fe11049a48a6757d7048b91b9, type: 3}
+  - kangarooImage: {fileID: 21300000, guid: 4b72b787eb4b494459502a215eadfe60, type: 3}
+  - kingCobraImage: {fileID: 21300000, guid: cbc93d2cae2bb91429771ec029f1c762, type: 3}
+  - koalaImage: {fileID: 21300000, guid: a7071ce641a206b40ae259b22491a729, type: 3}
+  - komoDragonImage: {fileID: 21300000, guid: 169551a49d4e3394185fd5b58a8b1df7, type: 3}
+  - krakenImage: {fileID: 21300000, guid: 423e181a969a2bc42946c549a5f70a1c, type: 3}
+  - leopardImage: {fileID: 21300000, guid: eeeec25608b8aff43811f63949be46fd, type: 3}
+  - leviathonImage: {fileID: 21300000, guid: 495a951aafa74cd4aac25c04661234ab, type: 3}
+  - lionImage: {fileID: 21300000, guid: c6a99029451a4a74bbb160c91fd46565, type: 3}
+  - lobsterImage: {fileID: 21300000, guid: f3a27e8b305a5ea45bc8c531183a92c1, type: 3}
+  - mamothImage: {fileID: 21300000, guid: a48bdfc535c7e754f891e66663feddd9, type: 3}
+  - marlinImage: {fileID: 21300000, guid: daaccff3918ba8f449aa4d664372f5e9, type: 3}
+  - megaladonImage: {fileID: 21300000, guid: 00f48cf61055dff419c9c8d346befb8c, type: 3}
+  - mooseImage: {fileID: 21300000, guid: be2a251717029b34497a0b70df5c28bc, type: 3}
+  - mosasaurImage: {fileID: 21300000, guid: 29549be72cd8e5446ab88e7f6b415145, type: 3}
+  - mtGoatImage: {fileID: 21300000, guid: 1a9acdbdcab045042819ed6d10387cf9, type: 3}
+  - mtLionImage: {fileID: 21300000, guid: ebc5f2f43e451cf4584dd16c96e2ef4e, type: 3}
+  - newtImage: {fileID: 21300000, guid: 042b959426b538e4cb4b7981534b1f26, type: 3}
+  - alligatorImage: {fileID: 21300000, guid: f0869bcfd33627a42b992d7e637d9776, type: 3}
+  - alpChoughImage: {fileID: 21300000, guid: b707d23e63246f64e9ee94026e3eac29, type: 3}
+  - anacondaImage: {fileID: 21300000, guid: 756054e2cf06ec64080ab09a943cca8f, type: 3}
+  - ankylImage: {fileID: 21300000, guid: 11040b619e45c66438cb6b18691a6ffc, type: 3}
+  - antelopeImage: {fileID: 21300000, guid: 60acd9b6008033948a0878a1ef0568a8, type: 3}
+  - batImage: {fileID: 21300000, guid: 2ec3e91e4b0552d409540213a20168e7, type: 3}
+  - beeImage: {fileID: 21300000, guid: b7bbd302443b1ac45936b963dd81e401, type: 3}
+  - behemothImage: {fileID: 21300000, guid: c36dfe917ebd88c478251c837badd3e8, type: 3}
+  - bigfootImage: {fileID: 21300000, guid: 223ecaadde599b84fa20516b03c477cd, type: 3}
+  - bigsquidImage: {fileID: 21300000, guid: 3465cc73c6b759f41bfec339d379320f, type: 3}
+  - bisonImage: {fileID: 21300000, guid: 016bbe6979655384eada67adebb2c296, type: 3}
+  - bluewhaleImage: {fileID: 21300000, guid: a7d40c3b6fe4d694eaae87c7da5f43e2, type: 3}
+  - bobcatImage: {fileID: 21300000, guid: 1417d5356e79cd3428e9592732eb98c0, type: 3}
+  - brachImage: {fileID: 21300000, guid: 8a68705703737e243b65a31d91a6b3a8, type: 3}
+  - bulletantImage: {fileID: 21300000, guid: e24125ce524fd29498eab9ad7b704d20, type: 3}
+  - butterflyImage: {fileID: 21300000, guid: f6f7f19e6c165cf4eb39f278915a6631, type: 3}
+  - camelImage: {fileID: 21300000, guid: a621d3ef8ca1846418f7e444a28ba7ff, type: 3}
+  - catfishImage: {fileID: 21300000, guid: 35b9c8df58c25894cb2c48a5ec1117ec, type: 3}
+  - cameleonImage: {fileID: 21300000, guid: e284548ab86cdad448c996bbf2ced4df, type: 3}
+  - cheetahImage: {fileID: 21300000, guid: dd5eb88a39489404da95f6c25d3074f3, type: 3}
+  - chickenImage: {fileID: 21300000, guid: a71ed26d585a14b4a82eacac19945234, type: 3}
+  - chimpImage: {fileID: 21300000, guid: 44f8ceee42020544f92d5e77aba3fd07, type: 3}
+  - clownfishImage: {fileID: 21300000, guid: 21908b6668c2c3549ac861014b5a885f, type: 3}
+  - cowImage: {fileID: 21300000, guid: a4c9592a1e4773f45986cdc84700375c, type: 3}
+  - crabImage: {fileID: 21300000, guid: 8cbbd339c937fad448e325a8582ea1bc, type: 3}
+  - cricketImage: {fileID: 21300000, guid: fece369551e7b5d43b19e66501c906af, type: 3}
+  - dartFrogImage: {fileID: 21300000, guid: 980f26e3011fd1149a7e9aaf4ce9ea09, type: 3}
+  - dinosouchieousImage: {fileID: 21300000, guid: f0e66e9c6334eac4e980064bee87b46b, type: 3}
+  - dogImage: {fileID: 21300000, guid: 92753b892790f054f96b9518f44cdcd5, type: 3}
+  - dolphinImage: {fileID: 21300000, guid: fff64733dc4d66c42a2cdcc7b1e49839, type: 3}
+  - dragonImage: {fileID: 21300000, guid: f00b23962516c6048bf774b67d15ca21, type: 3}
+  - dragonFlyImage: {fileID: 21300000, guid: 945b731aa8175a44cbc6da8466251b33, type: 3}
+  - duckImage: {fileID: 21300000, guid: d4f92fee25e684244a2bc933fcf3fe99, type: 3}
+  - dungBeetleImage: {fileID: 21300000, guid: da6b06189b774854f8c8491c0a82f599, type: 3}
+  - eagleImage: {fileID: 21300000, guid: 8d375daa74f95ba40b9fc5c73dbe7720, type: 3}
+  - elephantImage: {fileID: 21300000, guid: ea6c6ee4345b9aa42affb16f4591c476, type: 3}
+  - falconImage: {fileID: 21300000, guid: d02f0bb3825c8e8428612122f6d069ab, type: 3}
+  - fenFoxImage: {fileID: 21300000, guid: 451291b5e283e794cac83300a9251cb0, type: 3}
+  - flamingoImage: {fileID: 21300000, guid: dee58603abff6c141b8bd3421f2d19c5, type: 3}
+  - flyImage: {fileID: 21300000, guid: de021a5e5b8eed24eaf96d9c89e5f7ae, type: 3}
+  - frogImage: {fileID: 21300000, guid: f4db64e826ae5944c9b9ee03743a35d7, type: 3}
+  - giraffeImage: {fileID: 21300000, guid: b89064014f1d941429a02f5a8f7752e7, type: 3}
+  - goatImage: {fileID: 21300000, guid: 78a122cc819974b4f897f40aee311e67, type: 3}
+  - goldfishImage: {fileID: 21300000, guid: ba8e8482b59f3f34aac7c70a2341f9bd, type: 3}
+  - gooseImage: {fileID: 21300000, guid: 196e472dc8f72874086e0cb2c2dcb082, type: 3}
+  - gorillaImage: {fileID: 21300000, guid: dfe70483be5293c49ab3be759f50513e, type: 3}
+  - grizzlyImage: {fileID: 21300000, guid: 416b25ef373069a408ecaf5733e03120, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

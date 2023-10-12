@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 362038e2fb8f14748a7fef4d4b720038
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - p1d: {instanceID: 0}
+  - p1h: {instanceID: 0}
+  - Luke: {fileID: 21300000, guid: f6c6abfb91598ec42b14db97ebd2bcfa, type: 3}
+  - Anakin: {fileID: 21300000, guid: dc4baeb18a351f9449a48e949df4fecf, type: 3}
+  - Vader: {fileID: 21300000, guid: 8d1b3b62bfea1844a9766a373e4da1f7, type: 3}
+  - Han: {fileID: 21300000, guid: 60511f54dab9d4d4c92e88bbe3e532ed, type: 3}
+  - Leia: {fileID: 21300000, guid: ab8ebd53658b021439fda0fa16742231, type: 3}
+  - Kylo: {fileID: 21300000, guid: 2a5043082412a8444bac9448900e1810, type: 3}
+  - Padme: {fileID: 21300000, guid: c69928299ea19594e8155497660996b0, type: 3}
+  - Grevious: {fileID: 21300000, guid: dfe2104790aa9b441a67b6d0f684a0d5, type: 3}
+  - Dooku: {fileID: 21300000, guid: 7dafc3140789e00439fbfe200aa3e82f, type: 3}
+  - Yoda: {fileID: 21300000, guid: 92d64a829f1a52c48b36b54cded00ef5, type: 3}
+  - Palps: {fileID: 21300000, guid: d66bb8ce2d34b6343ae7845c4723240c, type: 3}
+  - Obi: {fileID: 21300000, guid: 94f90c61cc84b2646a8aebb70fdc59b9, type: 3}
+  - Mace: {fileID: 21300000, guid: 5082a0d081225d14ca18f064b6229a44, type: 3}
+  - Qui: {fileID: 21300000, guid: 8de985dfc621702448b35e5e36a9fb33, type: 3}
+  - Maul: {fileID: 21300000, guid: 6449b0bd1f833fa449c8b8dc5a118e4a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
